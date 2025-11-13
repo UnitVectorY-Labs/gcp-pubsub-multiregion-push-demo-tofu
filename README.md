@@ -19,7 +19,7 @@ OpenTofu reference showing Pub/Sub push behavior with global load balancing and 
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_gclb"></a> [gclb](#module\_gclb) | GoogleCloudPlatform/lb-http/google//modules/serverless_negs | ~> 13.0 |
+| <a name="module_gclb"></a> [gclb](#module\_gclb) | GoogleCloudPlatform/lb-http/google//modules/serverless_negs | ~> 14.0 |
 
 ## Resources
 
