@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,eclipse,visualstudiocode,terraform
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,eclipse,visualstudiocode,terraform
 
+*.lock.hcl
+
 ### Eclipse ###
 .metadata
 bin/
